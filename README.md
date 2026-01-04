@@ -52,11 +52,14 @@ This project aims to provide a more personalized calorie estimation using machin
 ---
 
 ## Project Structure
-calories-burnt-prediction/
-│
+│calories-burnt-prediction/
+
 ├── app.py # Streamlit application
+
 ├── Calories_Burnt_Prediction.ipynb# Model training and experimentation
+
 ├── calories_model.pkl # Trained ML model
+
 ├── requirements.txt # Project dependencies
 
 ## How to Run the Project
