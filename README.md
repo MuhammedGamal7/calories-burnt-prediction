@@ -75,7 +75,7 @@ pip install -r requirements.txt
 3.streamlit run app.py
 4.Open the provided local URL in your browser.
 ```
-Input Parameters
+## Input Parameters
 
 Gender
 
